@@ -1,0 +1,4 @@
+2023-01-30 14:27:34,591 FATAL d.C01 [main] Fatal Log!
+2023-01-30 14:27:34,597 ERROR d.C01 [main] Error Log!
+2023-01-30 14:27:34,598 WARN d.C01 [main] Warn Log!
+2023-01-30 14:27:34,598 INFO d.C01 [main] İnfo Log!
